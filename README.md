@@ -1,1 +1,1 @@
-# pratice-kotlin
+# practice-kotlin
